@@ -1,4 +1,4 @@
-# Simple HTTP Server
+# Simple TLS Server
 
 ## Usage
 openssl is required
@@ -26,5 +26,5 @@ sudo ./build/bin/server
 
 
 ## Reference
-
-- [RFC 9112](https://datatracker.ietf.org/doc/html/rfc9112)
+- [OpenSSL Simple TLS Server](https://wiki.openssl.org/index.php/Simple_TLS_Server)
+- [RFC 8446](https://www.rfc-editor.org/rfc/rfc8446)
